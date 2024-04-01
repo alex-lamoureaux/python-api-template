@@ -1,5 +1,8 @@
 # python-api-template
+
 Basic python api project using flask
+
+Disclaimer: this project is only intended as a basic sample application. In a production environment, it is not recommended to directly load a Flask application in this way. For more information, see [this page](https://flask.palletsprojects.com/en/2.3.x/tutorial/deploy/) in Flask's official documentation.
 
 # How to run
 
